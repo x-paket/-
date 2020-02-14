@@ -4,122 +4,121 @@ var quiz = {
 multiList: [
 //1-5
 {
-ques: "<strong><center> Lahar Dingin Merapi Membawa Korban </center></strong> <br> <br> Lahar dingin Gunung Merapi menelan korban diwilayah Menggong, Kepuharjo, Cangkringan, Sleman Yogyakarta Seorang penambang pasir tewas. Dia diduga tak mengindahkan sinyal bahaya kala puncak Merapi diguyur hujan lebat.Selain itu, sopir truk pengangkut pasir yang bernama Subagyo dilaporkan mengalami luka-luka saat berusaha menyelamatkan diri dari kepungan material vulkanis yang mengalir deras dari hulu sungai Gendol. <br> Arus lahar dingin juga menghanyutkan dua truk dan menenggelamkan satu alat berat. <br> Sementara itu empat truk lain terjebak ditengah aliran karena sopir terlambat menepi. Operator backhue (alat berat) selamat setelah mendapat pertolongan dengan ditarik menggunakan seutas tali oleh para relawan. <br> Identitas korban tewas belum diketahui. Dia dievakuasi di dusun suruh, Argomulyo. Lokasi itu berjarak tiga kilometer dari manggong. <br> <strong>Sumber : Jawa Pos, 13 Februari 2013. <br> <br> Mengapa penambang pasir itu menjadi korban ?",
-ans: "Dia tak mengindahkan sinyal bahaya kala puncak gunung merapi diguyur hujan",
-ansSel: ["Dia terjebak di dalam aliran material vulkanis yang mengalir deras dari hulu sungai Gendol", "Dia terlambat menepi dan terjebak aliran lahar dingin dari puncak gunung merapi","Dia hanyut oleh aliran lahar dingin bersama material vulkanis gunung merapi"]
+ques: "<strong><center> Tempe Lebih Bergizi daripada Daging </center></strong> <br> <br>	Kedelai memang kaya manfaat, apalagi jika sudah menjadi tempe. Bahan-bahan yang terkandung dalam tempe lebih bermanfaat dan menyehatkan daripada daging. Karena itu, tidak salah jika asupan tempe sangat disarankan untuk meningkatkan kualitas hidup anak gizi buruk. Hal tersebut diungkapkan ahli gizi tempe Dr. Drs. Susianto MKM.<br>	“Tempe adalah superfood karena semua nutrisi ada didalamnya. Karena itu, kita harus bangga makan tempe”. Tempe bukan hanya makanan yang murah, tetapi juga lebih baik daripada daging.<br>	Berdasarkan penelitian yang dilakukan serta berbagai jurnal dari dalam dan luar negeri, zat besi pada tempe lebih tinggi sepuluh kali lipat daripada daging kambing dan lima kali lipat daripada daging sapi. Kalsium yang terkandung dalam tempe juga sepuluh kali lebih banyak daripada berbagai jenis daging. <br>	Tempe yang merupakan makanan asli Indonesia begitu dihargai di negara-negara lain. Bahkan di Jepang dan Eropa harga tempe mahal. Padahal, di Indonesia tempe kurang dihargai. Selama ini masyarakat cenderung salah kaprah dengan menganggap bahwa tempe kurang bergizi. Karena itu, jika punya uang mereka langsung membeli daging dengan dalih peningkatan gizi. Padahal, tempe dan tahu pun jika diolah dengan benar mampu mencukupi kebutuhan gizi manusia. <br><em>Sumber : Jawa pos</em><br> <br>Mengapa asupan tempe sangat disarankan untuk meningkatkan kualitas hidup anak gizi buruk?",
+ans: "Karena yang tekandung dalam tempe lebih bermanfaat dan menyehatkan daripada daging",
+ansSel: ["Karena kedelai memang tidak manfaat dan kurang bergizi", "Karena tempe merupakan makanan asli Indonesia","Karena tempe lebih murah dan gampang didapat"]
 },
 {
-ques: "<strong> <center> Lahar Dingin Merapi Membawa Korban </center></strong> <br> <br> Lahar dingin Gunung Merapi menelan korban diwilayah Menggong, Kepuharjo, Cangkringan, Sleman Yogyakarta Seorang penambang pasir tewas. Dia diduga tak mengindahkan sinyal bahaya kala puncak Merapi diguyur hujan lebat.Selain itu, sopir truk pengangkut pasir yang bernama Subagyo dilaporkan mengalami luka-luka saat berusaha menyelamatkan diri dari kepungan material vulkanis yang mengalir deras dari hulu sungai Gendol. <br> Arus lahar dingin juga menghanyutkan dua truk dan menenggelamkan satu alat berat. <br> Sementara itu empat truk lain terjebak ditengah aliran karena sopir terlambat menepi. Operator backhue (alat berat) selamat setelah mendapat pertolongan dengan ditarik menggunakan seutas tali oleh para relawan. <br> Identitas korban tewas belum diketahui. Dia dievakuasi di dusun suruh, Argomulyo. Lokasi itu berjarak tiga kilometer dari manggong. <br> <strong>Sumber : Jawa Pos, 13 Februari 2013. <br> <br> Kalimat tanya yang sesuai dengan isi paragraf kedua adalah  .....",
-ans: "Mengapa sopir pengangkut pasir juga dilaporkan mengalami luka-luka?",
-ansSel: ["Di mana lahar dingin Gunung Merapi menelan korban?", "Berapa jarak lokasi tempat korban dievakuasi dengan tempat kejadian?","Siapa yang memberi pertolongan untuk menyelamatkan operator alat berat?"]
+ques: "<strong><center> Tempe Lebih Bergizi daripada Daging </center></strong> <br> <br>	Kedelai memang kaya manfaat, apalagi jika sudah menjadi tempe. Bahan-bahan yang terkandung dalam tempe lebih bermanfaat dan menyehatkan daripada daging. Karena itu, tidak salah jika asupan tempe sangat disarankan untuk meningkatkan kualitas hidup anak gizi buruk. Hal tersebut diungkapkan ahli gizi tempe Dr. Drs. Susianto MKM.<br>	“Tempe adalah superfood karena semua nutrisi ada didalamnya. Karena itu, kita harus bangga makan tempe”. Tempe bukan hanya makanan yang murah, tetapi juga lebih baik daripada daging.<br>	Berdasarkan penelitian yang dilakukan serta berbagai jurnal dari dalam dan luar negeri, zat besi pada tempe lebih tinggi sepuluh kali lipat daripada daging kambing dan lima kali lipat daripada daging sapi. Kalsium yang terkandung dalam tempe juga sepuluh kali lebih banyak daripada berbagai jenis daging. <br>	Tempe yang merupakan makanan asli Indonesia begitu dihargai di negara-negara lain. Bahkan di Jepang dan Eropa harga tempe mahal. Padahal, di Indonesia tempe kurang dihargai. Selama ini masyarakat cenderung salah kaprah dengan menganggap bahwa tempe kurang bergizi. Karena itu, jika punya uang mereka langsung membeli daging dengan dalih peningkatan gizi. Padahal, tempe dan tahu pun jika diolah dengan benar mampu mencukupi kebutuhan gizi manusia. <br><em>Sumber : Jawa pos</em><br> <br>Kalimat tanya yang sesuai dengan isi paragraf kedua adalah ....",
+ans: "Mengapa tempe disebut superfood?",
+ansSel: ["Siapa yang suka mengkonsumsi tempe?", "Apa manfaat kedelai?","Mengapa tempe dan tahu mampu mencukupi kebutuhan gizi manusia?"]
 },
 {
-ques: "<strong> <center> Lahar Dingin Merapi Membawa Korban </center></strong> <br> <br> Lahar dingin Gunung Merapi menelan korban diwilayah Menggong, Kepuharjo, Cangkringan, Sleman Yogyakarta Seorang penambang pasir tewas. Dia diduga tak mengindahkan sinyal bahaya kala puncak Merapi diguyur hujan lebat.<br>Selain itu, sopir truk pengangkut pasir yang bernama Subagyo dilaporkan mengalami luka-luka saat berusaha menyelamatkan diri dari kepungan material vulkanis yang mengalir deras dari hulu sungai Gendol.  Arus lahar dingin juga menghanyutkan dua truk dan menenggelamkan satu alat berat. <br> Sementara itu empat truk lain terjebak ditengah aliran karena sopir terlambat menepi. Operator backhue (alat berat) selamat setelah mendapat pertolongan dengan ditarik menggunakan seutas tali oleh para relawan. <br> Identitas korban tewas belum diketahui. Dia dievakuasi di dusun suruh, Argomulyo. Lokasi itu berjarak tiga kilometer dari manggong. <br> <strong>Sumber : Jawa Pos, 13 Februari 2013. <br> <br> Ide pokok paragraf kesatu terdapat pada kalimat  .....",
-ans: "Pertama",
-ansSel: ["Kedua", "Ketiga","Keempat"]
+ques: "<strong><center> Tempe Lebih Bergizi daripada Daging </center></strong> <br> <br>	Kedelai memang kaya manfaat, apalagi jika sudah menjadi tempe. Bahan-bahan yang terkandung dalam tempe lebih bermanfaat dan menyehatkan daripada daging. Karena itu, tidak salah jika asupan tempe sangat disarankan untuk meningkatkan kualitas hidup anak gizi buruk. Hal tersebut diungkapkan ahli gizi tempe Dr. Drs. Susianto MKM.<br>	“Tempe adalah superfood karena semua nutrisi ada didalamnya. Karena itu, kita harus bangga makan tempe”. Tempe bukan hanya makanan yang murah, tetapi juga lebih baik daripada daging.<br>	Berdasarkan penelitian yang dilakukan serta berbagai jurnal dari dalam dan luar negeri, zat besi pada tempe lebih tinggi sepuluh kali lipat daripada daging kambing dan lima kali lipat daripada daging sapi. Kalsium yang terkandung dalam tempe juga sepuluh kali lebih banyak daripada berbagai jenis daging. <br>	Tempe yang merupakan makanan asli Indonesia begitu dihargai di negara-negara lain. Bahkan di Jepang dan Eropa harga tempe mahal. Padahal, di Indonesia tempe kurang dihargai. Selama ini masyarakat cenderung salah kaprah dengan menganggap bahwa tempe kurang bergizi. Karena itu, jika punya uang mereka langsung membeli daging dengan dalih peningkatan gizi. Padahal, tempe dan tahu pun jika diolah dengan benar mampu mencukupi kebutuhan gizi manusia. <br><em>Sumber : Jawa pos</em><br> <br>Ide pokok yang sesuai dengan paragraf keempat bacaan tersebut adalah ....",
+ans: "Tempe merupakan  makanan asli Indonesia",
+ansSel: ["Zat besi tempe sepuluh kali lipat daripada daging kambing", "Tempe adalah makanan superfood","Kedelai memang kaya manfaat"]
 },
 {
-ques: "<strong> <center> Lahar Dingin Merapi Membawa Korban </center></strong> <br> <br> Lahar dingin Gunung Merapi menelan korban diwilayah Menggong, Kepuharjo, Cangkringan, Sleman Yogyakarta Seorang penambang pasir tewas. Dia diduga tak mengindahkan sinyal bahaya kala puncak Merapi diguyur hujan lebat.<br>Selain itu, sopir truk pengangkut pasir yang bernama Subagyo dilaporkan mengalami luka-luka saat berusaha menyelamatkan diri dari kepungan material vulkanis yang mengalir deras dari hulu sungai Gendol.  Arus lahar dingin juga menghanyutkan dua truk dan menenggelamkan satu alat berat. <br> Sementara itu empat truk lain terjebak ditengah aliran karena sopir terlambat menepi. Operator backhue (alat berat) selamat setelah mendapat pertolongan dengan ditarik menggunakan seutas tali oleh para relawan. <br> Identitas korban tewas belum diketahui. Dia dievakuasi di dusun suruh, Argomulyo. Lokasi itu berjarak tiga kilometer dari manggong. <br> <strong>Sumber : Jawa Pos, 13 Februari 2013. <br> <br> Pernyataan yang sesuai dengan paragraf ketiga pada bacaan tersebut adalah  ... .",
-ans: "Operator backhoe selamat setelah mendapat pertolongan dengan ditarik meggunakan seutas tali oleh para relawan",
-ansSel: ["Arus lahar dingin juga menghanyutkan dua truk dan menenggelamkan satu alat berat", "Dia diduga tak mengindahkan sinyal bahaya kala puncak merapi di guyur hujan lebat","Lokasi itu berjarak tiga kilometer dari Manggong"]
+ques: "<strong><center> Tempe Lebih Bergizi daripada Daging </center></strong> <br> <br>	Kedelai memang kaya manfaat, apalagi jika sudah menjadi tempe. Bahan-bahan yang terkandung dalam tempe lebih bermanfaat dan menyehatkan daripada daging. Karena itu, tidak salah jika asupan tempe sangat disarankan untuk meningkatkan kualitas hidup anak gizi buruk. Hal tersebut diungkapkan ahli gizi tempe Dr. Drs. Susianto MKM.<br>	“Tempe adalah superfood karena semua nutrisi ada didalamnya. Karena itu, kita harus bangga makan tempe”. Tempe bukan hanya makanan yang murah, tetapi juga lebih baik daripada daging.<br>	Berdasarkan penelitian yang dilakukan serta berbagai jurnal dari dalam dan luar negeri, zat besi pada tempe lebih tinggi sepuluh kali lipat daripada daging kambing dan lima kali lipat daripada daging sapi. Kalsium yang terkandung dalam tempe juga sepuluh kali lebih banyak daripada berbagai jenis daging. <br>	Tempe yang merupakan makanan asli Indonesia begitu dihargai di negara-negara lain. Bahkan di Jepang dan Eropa harga tempe mahal. Padahal, di Indonesia tempe kurang dihargai. Selama ini masyarakat cenderung salah kaprah dengan menganggap bahwa tempe kurang bergizi. Karena itu, jika punya uang mereka langsung membeli daging dengan dalih peningkatan gizi. Padahal, tempe dan tahu pun jika diolah dengan benar mampu mencukupi kebutuhan gizi manusia. <br><em>Sumber : Jawa pos</em><br> <br>Kalimat yang sesuai dengan paragraf ketiga bacaan tersebut adalah ....",
+ans: "Kalsium yang terkandung dalam tempe 10 kali lebih banyak daripada berbagai jenis daging",
+ansSel: ["Tempe dan tahu adalah makanan yang mencukupi gizi manusia", "Asupan tempe disarankan meningkatkan kualitas hidup anak gizi buruk","Tempe adalah makanan yang murah dan meriah"]
 },
 {
-ques: "(1) Bongkahan batu-batu granit berukuran besar menjadi cirri khas pantai-pantai di Belitung.  (2)Batu-batu itu beraneka bentuk yang tersebar di pantai. (3) Keberadaan batu-batu itu memperindah keindahan di sepanjang pantai. (4) Apalagi ditambah pasir putih yang bersih pada siang hari.<br> Kalimat utama pada paragraph di atas pada kalimat  ……",
-ans: "(1)",
-ansSel: ["(2)", "(3)","(4)"]
+ques: "Bacalah rubrik surat pembaca berikut!<br>Hai, Bo. Aku punya usul, bagaimana kalau bonusnya foto tentang COBOY JUNIOR? Aku dan adikku menunggu, nih!<br> <br>Arina Laksita<br>Jakarta Pusat<br><br>Saran yang tepat untuk membalas surat pembaca di atas adalah ....",
+ans: "Terima kasih atas usulannya. Mudah-mudahan ditahun 2013 ini Bobo bisa memberikan bonus tentang foto Coboy Junior.",
+ansSel: ["Terima kasih atas perhatiannya; pada Bobo!", "Terima kasih atas surat yang dikirim, ya!","Usulanmu diterima, dan tunggu balasan suratmu!"]
 },
 //6-10
 {
-ques: "Tari :”Tari, beli, ya? Ini koran dan majalahku masih banyak.” <br> Diva :” Wah, Tari. Maaf, Tar, ini aku baru beli majalah dari Rangga.” <br> Tari :” Jadi, Rangga baru dari sini, ya?” <br> Diva : “Iya, baru saja.” <br> Tari :”Wah, harus kuhajar dia! Dia selalu mendahului aku.” (menaiki sepedanya dan buru-buru pergi). <br> Diva : (heran)”He, Tari. Tunggu!Kenapa kamu mau menghajar Rangga?” “Jangan, Tar Tar, Tari, jangan!” <br> Ade:  “Kenapa, Tari, Diva?” <br> Diva : “Entahlah!” <br> <br> Tokoh utama kutipan drama di atas adalah . . .",
-ans: "Tari dan Diva",
-ansSel: ["Tari dan Ade", "Diva dan Ade","Tari, Diva, Ade"]
+ques: "(Santi datang menghampiri teman-temannya di halaman sekolah) <br>Santi 	: “Hai, kalian sedang apa?” <br>Yudi		: (tanpa bicara langsung pergi) <br> Santi	: “Sudah bel, kok masih main saja?”<br>Dani 	: (sambil mengumpulkan kelereng) “Ya, San, kita sudah mau bubar kok!”<br> Dodik	: “Iya, kita bubar saja.”<br>Santi	: “Ya, harus! Sekarang, waktunya untuk belajar.”  (membuka pintu kelas) <br> <br> 9. Tokoh utama drama tersebut adalah ....",
+ans: "Santi",
+ansSel: ["Dodik", "Yudi","Dani"]
 },
 {
-ques: "Tari :”Tari, beli, ya? Ini koran dan majalahku masih banyak.” <br> Diva :” Wah, Tari. Maaf, Tar, ini aku baru beli majalah dari Rangga.” <br> Tari :” Jadi, Rangga baru dari sini, ya?” <br> Diva : “Iya, baru saja.” <br> Tari :”Wah, harus kuhajar dia! Dia selalu mendahului aku.” (menaiki sepedanya dan buru-buru pergi). <br> Diva : (heran)”He, Tari. Tunggu!Kenapa kamu mau menghajar Rangga?” “Jangan, Tar Tar, Tari, jangan!” <br> Ade:  “Kenapa, Tari, Diva?” <br> Diva : “Entahlah!” <br> <br> Latar suasana tempat kutipan drama di atas adalah . . .",
-ans: "Tegang",
-ansSel: ["Sepi", "Gembira","Syahdu"]
+ques: "(Santi datang menghampiri teman-temannya di halaman sekolah) <br>Santi 	: “Hai, kalian sedang apa?” <br>Yudi		: (tanpa bicara langsung pergi) <br> Santi	: “Sudah bel, kok masih main saja?”<br>Dani 	: (sambil mengumpulkan kelereng) “Ya, San, kita sudah mau bubar kok!”<br> Dodik	: “Iya, kita bubar saja.”<br>Santi	: “Ya, harus! Sekarang, waktunya untuk belajar.”  (membuka pintu kelas) <br> <br> 10. Latar tempat drama tersebut adalah ....",
+ans: "Halaman sekolah",
+ansSel: ["Halaman belakang", "Lapangan","Rumah Santi "]
 },
 {
-ques: "Tari :”Tari, beli, ya? Ini koran dan majalahku masih banyak.” <br> Diva :” Wah, Tari. Maaf, Tar, ini aku baru beli majalah dari Rangga.” <br> Tari :” Jadi, Rangga baru dari sini, ya?” <br> Diva : “Iya, baru saja.” <br> Tari :”Wah, harus kuhajar dia! Dia selalu mendahului aku.” (menaiki sepedanya dan buru-buru pergi). <br> Diva : (heran)”He, Tari. Tunggu!Kenapa kamu mau menghajar Rangga?” “Jangan, Tar Tar, Tari, jangan!” <br> Ade:  “Kenapa, Tari, Diva?” <br> Diva : “Entahlah!” <br> <br> Amanat kutipan drama di atas adalah . . .",
-ans: "Jangan mudah marah",
-ansSel: ["Jangan berpura-pura tidak tahu", "Selesaikan masalah sampai ke akarnya","Tolong-menolonglah dalam kebaikan"]
+ques: "(Santi datang menghampiri teman-temannya di halaman sekolah) <br>Santi 	: “Hai, kalian sedang apa?” <br>Yudi		: (tanpa bicara langsung pergi) <br> Santi	: “Sudah bel, kok masih main saja?”<br>Dani 	: (sambil mengumpulkan kelereng) “Ya, San, kita sudah mau bubar kok!”<br> Dodik	: “Iya, kita bubar saja.”<br>Santi	: “Ya, harus! Sekarang, waktunya untuk belajar.”  (membuka pintu kelas) <br> <br>11. Amanat drama tersebut adalah ....",
+ans: "Kalau bermain harus ingat waktu",
+ansSel: ["Kalau bermain tidak boleh curang", "Bermainlah setelah selesai belajar","Setelah membantu orang tua, baru bermain"]
 },
 {
-ques: "Bacalah cuplikan laporan berikut !<br>Senin, 18 Juli 2014, pukul 08.00 Kompleks Pasar Rabu Jalan Merpati tebakar. Api berkobar membakar semua yang ada disekitarnya. Para pedagang dan pengunjung panik berlarian menyelamatkan diri. Api baru padam beberapa jam setelah petugas pemadam kebakaran datang kelokasi kejadian. Jeritan orang-orang membuat suasana semakin mencekam.<br> Topik cuplikan diatas adalah...",
-ans: "Peristiwa kebakaran",
-ansSel: ["Kejadian minggu pagi", "Tugas pemadam ke bakaran","Kepanikan para pengunjung"]
+ques: "Bacalah ilustrasi berikut!<br>Bonar duduk di kelas 6. Ia selalu ingin membeli aneka mainan di sekolahnya. Karena uangnya tidak cukup, ia sering meminjam uang kepada teman-temannya. Uang saku yang ia peroleh dari ibunya Rp 4.000, sedangkan harga mainan yang dibelinya Rp 6.000.<br> Peribahasa yang tepat untuk Bonar adalah ....",
+ans: "Lebih besar pasak daripada tiang",
+ansSel: ["Bagai kacang lupa kulitnya", "Lebih besar tiang daripada rumah","Bagai menggarami lautan"]
 },
 {
-ques: "Siswa-siswa kelas VI SDN Seruyu berlatih mengarang untuk membuat majalah dinding. Mereka dilatih oleh seorang wartawan yang bernama Pak Amar. Hasil karangan Eky merupakan karangan terbaik dan akan dipajangkan pada majalah dinding edisi pertama.<br>Ringkasan yang tepat untuk paragraf diatas adalah...",
-ans: "Siswa-siswi kelas VI SDN Seruyu berlatih mengarang untuk mengisi majalah dinding",
-ansSel: ["Siswa-siswi kelas VI dilatih oleh seorang wartawan yang bernama Pak Amar", "SDN Seruyu membuat majalah dinding untuk para siswanya","Pak Amar seorang wartawan pandai mengarang."]
+ques: "Tahun baru Imlek membawa berkah bagi pemain barongsai.(1) Di tahun ular ini permintaan atau tanggapan barongsai meningkat tajam. (2) Para pemain barongsai ini mendapat order dari perusahaan, toko atau instansi pemerintah. (3) Tahun ini tidak ada  kirab barongsai sepanjang jalan, sebab sudah banyak pesanan untuk atraksi di beberapa tempat. (4) <br> Kalimat utama paragraf di atas terdapat pada nomor ....",
+ans: "(1)",
+ansSel: ["(4)", "(3)","(2)"]
 },
 //11-15
 {
-ques: " … Wajah keduanya mirip . Bedanya pandu berkulit sawo matang , sedangkan Pande agak putih . Jarak waktu kelahiran mereka hanya berselang sepuluh menit . Namun, keduanya anak yang cerdas , mereka selalu mendengarkan nasihat orang tua agar gemar membaca . <br>Kalimat yang sesuai untuk melengkapi awal paragraph diatas adalah …",
-ans: "Pandu dan pande anak kembar",
-ansSel: ["Pandu dan pande saudara sepupu", "Pandu dan pande kakak beradik","Pandu dan pande bersahabat dekat"]
+ques: " Wabah demam berdarah di seputar wilayah Gresik memasuki fase krusial. Hingga kemarin jumlah pasien yang terjangkit belum turun. Kondisi ini pula yang membuat Pemkab merealisasikan program fogging di lokasi-lokasi rawan demam berdarah. Dalam program ini Pemkab mengalokasikan dana Rp 300 juta. <br> Pernyataan yang sesuai dengan paragraf di atas adalah ....",
+ans: " Jumlah pasien penderita demam berdarah belum turun sehingga perlu dilakukan fogging",
+ansSel: [" Wabah demam berdarah terjadi di seputar wilayah Surabaya dan sekitarnya", " Fogging tidak perlu dilakukan lagi, karena jumlah pasien sudah berkurang"," Pemkab mengalokasikan dana Rp 100 juta untuk melakukan fogging di Gresik"]
 },
 {
-ques: "Pada saat terkena cairan spirtus atau bensin, biasanya terasa dingin bersamaan dengan menguapnya cairan tersebut dari kulit tubuh. Hal ini disebabkan karena ….",
-ans: "pada waktu spirtus menguap memerlukan panas yang diambil dari kulit tubuh",
-ansSel: ["pirtus atau bensin cenderung mencair", "pirtus atau bensin cenderung menguap","pada waktu spirtus mencair tidak memerlukan panas yang diambil dari kulit tubuh"]
+ques: " Wabah demam berdarah di seputar wilayah Gresik memasuki fase krusial. Hingga kemarin jumlah pasien yang terjangkit belum turun. Kondisi ini pula yang membuat Pemkab merealisasikan program fogging di lokasi-lokasi rawan demam berdarah. Dalam program ini Pemkab mengalokasikan dana Rp 300 juta. <br> Antonim kata rawan adalah ....",
+ans: "Aman",
+ansSel: ["Gawat", "Darurat","Tentram"]
 },
 {
-ques: "Perhatikan puisi di bawah ini<br> <strong><center>Sahabat</center></strong><br>Saat aku mulai mengerti hidup <br> Aku butuh seorang sahabat<br> Yang selalu ada di dekatku <br> Saat jantung berdetak <br> Sampai mata tertutup <br> Aku akan tertawa dan menangis bersama <br> Tak ada kata putus <br> Meski masa akan terhapus<br> Yakinlah hati kita tetap menyatu <br> Sumber : Bravo, vol. 4/no. 54/Juli 2011 <br> Apabila puisi di atas diubah kedalam prosa akan menjadi …",
-ans: "Sahabat adalah orang yang selalu ada didekatku sejak hidup sampai mati. Persahabatan tidak mengenal kata putus dan hati dua orang sahabat pasti akan menyatu.",
-ansSel: ["Sahabat selalu ada saat marah, sedih, senang, sial, dan saat kita membutuhkannya. Tiada kata yang lebih indah dari sebuah persahabatan", "Sahabat yakin dapat membantu kita kapan pun kita membutuhkannya, karena itulah guna sorang sahabat.","Apabila kita mempunyai sahabat, kita harus bisa menjaganya karena hanya sahabat yang bisa membantu."]
+ques: " Wabah demam berdarah di seputar wilayah Gresik memasuki fase krusial. Hingga kemarin jumlah pasien yang terjangkit belum turun. Kondisi ini pula yang membuat Pemkab merealisasikan program fogging di lokasi-lokasi rawan demam berdarah. Dalam program ini Pemkab mengalokasikan dana Rp 300 juta. <br> Kata krusial dalam paragraf di atas memilik arti ....",
+ans: "Gawat / genting",
+ansSel: ["Aman", "Awal","Tenang"]
 },
 
 {
-ques: "Perhatikan puisi di bawah ini<br> <strong><center>Sahabat</center></strong><br>Saat aku mulai mengerti hidup <br> Aku butuh seorang sahabat<br> Yang selalu ada di dekatku <br> Saat jantung berdetak <br> Sampai mata tertutup <br> Aku akan tertawa dan menangis bersama <br> Tak ada kata putus <br> Meski masa akan terhapus<br> Yakinlah hati kita tetap menyatu <br> Sumber : Bravo, vol. 4/no. 54/Juli 2011 <br>  Kata mata tertutup dalam puisi di atas bermakna …",
-ans: "Meninggal",
-ansSel: ["Mengantuk", "Tidur","Pergi"]
+ques: " Perhatikan pantun di bawah ini!<br>Anak kecil bermain bumbung<br>Ke dalam pasar cobalah cari<br> ........................ <br> ........................<br> Kalimat yang tepat untuk melengkapi pantun bagian isi adalah...",
+ans: "Ketika kecil rajin belajar<br>Sesudah besar senanglah hati",
+ansSel: ["Janganlah kita pergi ke pasar<br>Kalau tidak ingin membeli", "Cobalah kita bersabar<br>Nanti pasti bisa sendiri","Ketika kecil jangan kurang ajar <br>kelak besar tidak mandiri"]
 },
 {
-ques: "Ali rajin belajar. <br>Ali menjadi juara kelas. <br> Kedua kalimat tersebut jika disusun  menjadi kalimat majemuk adalah ….",
-ans: "Ali rajin belajar sehingga menjadi juara kelas.",
-ansSel: ["Ali rajin belajar jika menjadi juara kelas.", "Ali rajin belajar ketika menjadi juara kelas.","Ali rajin belajar sedangkan menjadi juara kelas."]
+ques: "         Awalnya usaha Pak Usman sangat maju. Karena banyak persaingan dagang yang lebih maju, usahanya jadi lesu. Lama-lama, semua barang dagangan dan tokonya dijual untuk menutupi utang-utangnya. <br> Ungkapan untuk keadaan tersebut adalah ....",
+ans: "Gulung tikar",
+ansSel: ["Banting tulang", "Angkat tangan","Ringan tangan"]
 },
 //16-20
 {
-ques: "…. aku rajin belajar, aku akan meraih nilai ujian tinggi. <br>Kata hubung yang tepat untuk melengkapi kalimat di atas adalah ….",
-ans: "Seandainya",
-ansSel: ["Setelah", "Seolah-olah","Supaya"]
+ques: "Bacalah pantun berikut!<br>Anak ayam turun sepuluh <br> Mati satu tinggallah sembilan<br>Tuntutlah ilmu bersungguh-sungguh <br> Satupun jangan ketinggalan <br> Pesan yang terkandung dalam pantun di atas adalah ....",
+ans: "Mecari ilmu harus bersungguh-sungguh",
+ansSel: ["Mencari ilmu dengan santai", "Semua ilmu harus dicari","Semua ilmu pasti berguna"]
 },
 
 {
-ques: "Untuk membuka gambar gunakan koneksi internet! <br> <img src=http://1.bp.blogspot.com/-vIPAoiYnwF8/VkWW_gSQmmI/AAAAAAAABgc/CIylsIf1Ywo/s320/surat.PNG> <br> Kalimat yang tepat untuk melengkapi surat undangan tersebut adalah ….",
-ans: "Memberikan pendapat dalam karyawisata nanti.",
-ansSel: ["Mengizinkan anak Bapak/Ibu untuk ikut karyawisata.", "Ikut serta dalam  kegiatan karyawisata tersebut.","Menjaga karyawisata tersebut agar berjalan dengan aman."]
+ques: "Untuk membuka gambar gunakan koneksi internet! <br> <img src=http://1.bp.blogspot.com/-UKVndAw-lX0/VkrQWTjaYRI/AAAAAAAABg8/V0yhW3hF4Qg/s1600/kerja.png> <br> 48. Paragraf yang tepat untuk gambar berikut adalah...",
+ans: "Seluruh warga RT 01 sedang bergotong royong membersihkan lingkungan terutama sungai, agar terbebas dari banjir ",
+ansSel: ["Warga kampung sedang menanam tanaman di pinggir kali untuk mencegah banjir", "Seluruh siswa kelas VI SD Sukar Maju bergotong royong membersihkan selokan air","Para pekerja bekerja keras menyelesaikan pembangunan tanggul sungai untuk mencegah banjir"]
 },
 
 {
-ques: " ... Ulangan tersebut akan dilaksanakan pada hari Senin tanggal 9 Maret 2014. Materi yang akan diujikan adalah BAB VII–IX. Semua siswa kelas VI harap mempersiapkan diri.<br>Kalimat yang tepat untuk mengawali pengumuman di atas adalah   ...",
-ans: "Diberitahukan kepada siswa kelas VI bahwa akan diadakan ulangan IPA.",
-ansSel: ["Diadakan ulangan IPA materi BAB VII–IX.", "Diberitahukan kepada siswa kelas VI bahwa akan diadakan ulangan.","Ulangan IPA dilaksanakan pada Hari Senin tanggal 9 Maret 2014."]
+ques: "<strong>Teks I </strong><br> Meski seabrek proyek perbaikan jalan dilakukan, jumlah jalan rusak di Surabaya masih cukup banyak. Bahkan, beberapa jalan utama yang baru saja diperbaiki, ternyata kini rusak lagi.<br><strong> Teks 2</strong><br> Saat ini jalur utama penghubung Gresik-Sidoarjo itu rusak parah. Kerusakan ini cukup mengejutkan. Sebenarnya jalur itu pernah mengalami kerusakan yang sama dan diperbaiki pertengahan 2011 silam. Namun kini kondisinya kembali rusak.<br>Persamaan tema kedua teks di atas adalah ....",
+ans: "Kerusakan jalan",
+ansSel: ["Perbaikan jalan utama", "Proyek perbaikan jalan","Jalur utama jalan"]
 },
 
 {
-ques: "Pak Jumali akan mendonorkan darahnya dan harus mengisi formulir terlebih dahulu. Beliau berprofesi sebagai guru, lahir di Surabaya pada tanggal 5 Maret 1965. Beragama Islam dan bertempat tinggal di Jl. Asem III-A / 24 Surabaya. Telah menyelesaikan kuliahnya pada tahun 2000 dan memiliki gelar sebagai Sarjana Pendidikan. Sudah menikah, bergolongan darah AB.<br>Saat mengisi formulir donor darah, masih ada data yang kosong. Seharusnya di isi...",
-ans: "Laki-laki",
-ansSel: ["Telah menikah", "AB","48 tahun"]
+ques: " .... Indonesia merupakan negara yang subur, sehingga apapun yang kita tanam akan menghasilkan sesuatu yang bermanfaat bagi kehidupan. Padi menguning, hutan menghijau, dan kekayaan alam melimpah. <br> Kalimat yang tepat untuk melengkapi paragraf tersebut adalah ....",
+ans: "Aku bangga dan senang memiliki tanah air Indonesia",
+ansSel: ["Indonesia adalah negara yang subur dan makmur", "Keindahan alam Indonesia sangat membanggakan dunia","Cintailah hasil produk dalam negeri Indonesia"]
 },
 
 {
-ques: "Bacalah Pantun berikut !<br>Burung pungguk terbang jauh<br>Hinggap di dahan mencari makan <br> … <br>… <br>Larik pantun di atas yang tepat untuk melengkapi bagian isi adalah …",
-ans: "Hidup jangan mencari musuh<br>Lebih baik mencari kawan",
-ansSel: ["Jangan suka membuat gaduh <br>Karena ayah ibu pasti marah", "Awas jangan mudah terpengaruh <br> Karena kamu akan tertipu","Kalau kamu suka tantangan <br>Lebih baik keluar rumah "]
+ques: "<em>Hari ini adalah hari Minggu. Pada hari ini ada kegiatan yang dilaksanakan di kampungku. .......................... . Kerja bakti ini wajib diikuti oleh seluruh warga, baik yang sudah dewasa atau yang masih remaja seperti aku. Ada yang membersihkan selokan, memotong ranting pohon, menyapu halaman dan jalan dan sebagainya. Karena itulah dalam lomba Green and Clean yang diselenggarakan Pemerintah Kota Surabaya, kampungku masuk 10 besar.</em> <br> Kalimat yang tepat untuk melengkapi paragraf tersebut adalah...",
+ans: "Kegiatan tersebut adalah kerja bakti masal",
+ansSel: ["Kegiatan hanya diikuti oleh orang dewasa", "Kegiatan tersebut hanya seminggu sekali","Aku mengikuti kegiatan itu sampai selesai"]
 },
 
 ],
 },
 options = {
-help: "<justify> Jawablah 20 soal pilihan ganda dengan menekan tombol A, B, C atau D ! untuk membuka gambar, gunakan koneksi internet atau data mobile</justify>",
+help: "<justify> Jawablah 20 soal pilihan ganda dengan menekan tombol A, B, C atau D ! <br> untuk membuka gambar, gunakan koneksi internet atau data mobile</justify>",
 intro: "SOAL UJIAN NASIONAL SEKOLAH DASAR",
 allRandom: true,
-title: "<b>BAHASA INDONESIA PAKET A</b>"
+title: "<b>BAHASA INDONESIA PAKET C</b>"
 };
 $("#quizArea").jQuizMe(quiz, options);
 });
-
