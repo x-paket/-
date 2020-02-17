@@ -116,9 +116,9 @@ ansSel: ["Mars ", "Uranus","Yupiter"]
 },
 options = {
 help: "<justify> Jawablah 20 soal pilihan ganda dengan menekan tombol A, B, C atau D !</justify>",
-intro: "Soal UN SD - IPA PAKET A",
+intro: "ILMU PENGETAHUAN ALAM PAKET A",
 allRandom: true,
-title: "Soal UN SD - IPA <br>"
+title: "UJIAN NASIONAL SEKOLAH DASAR<br>"
 };
 $("#quizArea").jQuizMe(quiz, options);
 });
